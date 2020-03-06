@@ -1,0 +1,6 @@
+C:\Users\Ali_Nadjar\Downloads\RobotCleaner-master\RobotCleaner-master\RobotCleaner\bin\Debug\RobotCleaner.dll
+C:\Users\Ali_Nadjar\Downloads\RobotCleaner-master\RobotCleaner-master\RobotCleaner\bin\Debug\RobotCleaner.pdb
+C:\Users\Ali_Nadjar\Downloads\RobotCleaner-master\RobotCleaner-master\RobotCleaner\obj\Debug\RobotCleaner.csprojAssemblyReference.cache
+C:\Users\Ali_Nadjar\Downloads\RobotCleaner-master\RobotCleaner-master\RobotCleaner\obj\Debug\RobotCleaner.csproj.CoreCompileInputs.cache
+C:\Users\Ali_Nadjar\Downloads\RobotCleaner-master\RobotCleaner-master\RobotCleaner\obj\Debug\RobotCleaner.dll
+C:\Users\Ali_Nadjar\Downloads\RobotCleaner-master\RobotCleaner-master\RobotCleaner\obj\Debug\RobotCleaner.pdb
